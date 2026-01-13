@@ -1,9 +1,9 @@
-🐍 PYTHON PROGRAMMING LAB
-📌 Title of the Experiment
+**🐍 PYTHON PROGRAMMING LAB**
+**📌 Title of the Experiment**
 
 Study of Basics of Python Programming
 
-🎯 Aim
+**🎯 Aim**
 
 The aim of this experiment is to study and understand the fundamental concepts of the Python programming language. This includes learning basic syntax, variables, data types, operators, input/output statements, control structures, and functions to build a strong programming foundation.
 
@@ -17,7 +17,7 @@ IDE / Editor: IDLE, Visual Studio Code, PyCharm
 
 System Requirements: Minimum 2 GB RAM and basic processor
 
-📘 Theory
+**📘 Theory**
 
 Python is a high-level, interpreted, and general-purpose programming language developed by Guido van Rossum. It is known for its simple syntax and readability, making it easy to learn and use.
 
@@ -50,8 +50,8 @@ Control statements determine the flow of execution of a program. Python provides
 
 Functions:
 Functions are reusable blocks of code defined using the def keyword. They help in reducing code repetition and improving readability.
-
-🧪 Procedure
+**
+🧪 Procedure**
 
 Install Python 3.x on the system.
 
@@ -63,10 +63,10 @@ Execute the programs and observe the output.
 
 Modify the programs to understand the behavior of Python statements.
 
-✅ Result
+**✅ Result**
 
 The basics of Python programming, including variables, data types, operators, input/output statements, control statements, and functions, were successfully studied and executed.
-
+**
 🏁 Conclusion
-
+**
 Python is a simple and powerful programming language suitable for beginners. Learning its basic concepts helps in developing logical thinking and serves as a foundation for advanced programming and real-world applications.

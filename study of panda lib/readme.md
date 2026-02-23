@@ -1,4 +1,4 @@
-# Pandas Study Guide
+# Pandas 
 
 <div align="center">
 
